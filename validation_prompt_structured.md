@@ -4,6 +4,10 @@
 git initcd /Users/peterstark_mba/Downloads
 git initcd /Users/peterstark_mba/Downloads
 git initcd /Users/peterstark_mba/Downloads
+git initgit remote add origin https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
+git branch -M maingit remote add origin https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
+git branch -M maingit remote add origin https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
+git branch -M maincd /Users/peterstark_mba/Downloads
 git initD
 
 **Personal Profile:**
